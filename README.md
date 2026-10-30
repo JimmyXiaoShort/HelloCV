@@ -19,3 +19,7 @@ The learning repository of 718CV
 ### 第三次任务
 
 #### [ROS2学习笔记](https://www.yuque.com/g/asyncbuffering/yqs95v/iupmbz0nru4ggmgz/collaborator/join?token=ourqEisENffCtWKA&source=doc_collaborator#)
+
+### 校内赛
+
+[语雀文档](https://www.yuque.com/g/asyncbuffering/yqs95v/hgnx8rogi3lz7oi5/collaborator/join?token=aBAOucnWXK2BMIwp&source=doc_collaborator#)
